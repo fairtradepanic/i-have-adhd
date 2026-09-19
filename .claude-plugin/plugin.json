@@ -1,7 +1,7 @@
 {
   "name": "i-have-adhd",
-  "version": "0.3.0",
-  "description": "Shape Claude Code output for an ADHD reader: lead with the next action, number steps, suppress tangents, restate state, make wins visible.",
+  "version": "0.3.1",
+  "description": "Shape Claude Code chat replies for an ADHD reader running an engineering project: lead with the next action, number steps, tangents only when reportable, state at milestones, measured time figures, wins with numbers. Chat prose only (Social-Canvas-Fassung).",
   "author": {
     "name": "Ayoub G.",
     "url": "https://github.com/ayghri"
